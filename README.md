@@ -1,0 +1,1 @@
+You'll need to install the the Python Image Library on your machine in order for this to work.
